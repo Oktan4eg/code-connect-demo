@@ -1,17 +1,24 @@
-import { useState } from "react";
-import { Button, Dialog, DialogActions, DialogContent } from "ui";
+import { useState } from 'react';
+import { Button, IconButton, DialogActions, DialogContent } from 'ui';
+import { IconStar } from 'ui/icons';
 
 function App() {
-  const [text, setText] = useState("Hello world!");
+  const [text, setText] = useState('Hello world!');
   return (
     <main
       style={{
-        display: "grid",
-        placeItems: "center",
-        minHeight: "100vh",
+        display: 'grid',
+        placeItems: 'center',
+        minHeight: '100vh',
       }}
     >
-      <Button variant="primary" onClick={() => setText(text + "!")}>{text}</Button>
+      {' '}
+      <Button variant='secondary' onClick={() => setText(text + '!')}>
+        {text}
+      </Button>
+      <Button variant='primary' onClick={() => setText(text + '!')}>
+        {text}
+      </Button>
     </main>
   );
 }
