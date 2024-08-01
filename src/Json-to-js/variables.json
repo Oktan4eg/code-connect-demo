@@ -1,0 +1,1285 @@
+[
+  {
+    "name": "sysColor",
+    "values": [
+      {
+        "mode": {
+          "name": "cftLight",
+          "id": "14061:2"
+        },
+        "color": [
+          {
+            "name": "onSurface",
+            "value": "#141414",
+            "var": "gray/8",
+            "rootAlias": "gray/8"
+          },
+          {
+            "name": "onSurfaceVariant",
+            "value": "#4d4d4d",
+            "var": "gray/30",
+            "rootAlias": "gray/30"
+          },
+          {
+            "name": "background/background",
+            "value": "#fbfcff",
+            "var": "gray-variant/98",
+            "rootAlias": "gray-variant/98"
+          },
+          {
+            "name": "background/inverseOnSurface",
+            "value": "#f2f2f2",
+            "var": "gray/95",
+            "rootAlias": "gray/95"
+          },
+          {
+            "name": "background/inverseSurface",
+            "value": "#333333",
+            "var": "gray/20",
+            "rootAlias": "gray/20"
+          },
+          {
+            "name": "background/onBackground",
+            "value": "#141414",
+            "var": "onSurface",
+            "rootAlias": "gray/8"
+          },
+          {
+            "name": "background/surface",
+            "value": "#f2f2f2",
+            "var": "gray/95",
+            "rootAlias": "gray/95"
+          },
+          {
+            "name": "background/surfaceBright",
+            "value": "#fafafa",
+            "var": "gray/98",
+            "rootAlias": "gray/98"
+          },
+          {
+            "name": "background/surfaceDim",
+            "value": "#e5e5e5",
+            "var": "gray/90",
+            "rootAlias": "gray/90"
+          },
+          {
+            "name": "container/container",
+            "value": "#f7f7f7",
+            "var": "gray/97",
+            "rootAlias": "gray/97"
+          },
+          {
+            "name": "container/containerHight",
+            "value": "#f2f2f2",
+            "var": "gray/95",
+            "rootAlias": "gray/95"
+          },
+          {
+            "name": "container/containerHightest",
+            "value": "#e5e5e5",
+            "var": "gray/90",
+            "rootAlias": "gray/90"
+          },
+          {
+            "name": "container/containerLow",
+            "value": "#fafafa",
+            "var": "gray/98",
+            "rootAlias": "gray/98"
+          },
+          {
+            "name": "container/containerLowest",
+            "value": "#ffffff",
+            "var": "gray/100",
+            "rootAlias": "gray/100"
+          },
+          {
+            "name": "effects/backdrop",
+            "value": "#1a1a1a80",
+            "var": "base/dark/50",
+            "rootAlias": "base/dark/50"
+          },
+          {
+            "name": "effects/shadow",
+            "value": "#1a1a1a33",
+            "var": "base/dark/20",
+            "rootAlias": "base/dark/20"
+          },
+          {
+            "name": "fixed/black",
+            "value": "#000000",
+            "var": "black",
+            "rootAlias": "black"
+          },
+          {
+            "name": "fixed/brand",
+            "value": "#d72435",
+            "var": "brand",
+            "rootAlias": "brand"
+          },
+          {
+            "name": "fixed/white",
+            "value": "#ffffff",
+            "var": "white",
+            "rootAlias": "white"
+          },
+          {
+            "name": "gradients/1",
+            "value": "#87a2e4",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "gradients/2",
+            "value": "#4864e1",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "gradients/3",
+            "value": "#8248e1",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "surface/outline",
+            "value": "#808080",
+            "var": "gray/50",
+            "rootAlias": "gray/50"
+          },
+          {
+            "name": "surface/outlineVariantCard",
+            "value": "#dbdbe4",
+            "var": "gray-variant/70",
+            "rootAlias": "gray-variant/70"
+          },
+          {
+            "name": "surface/error/error",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/error/errorContainer",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/error/onError",
+            "value": "#ffffff",
+            "var": "red/100",
+            "rootAlias": "red/100"
+          },
+          {
+            "name": "surface/error/onErrorContainer",
+            "value": "#3b0407",
+            "var": "red/10",
+            "rootAlias": "red/10"
+          },
+          {
+            "name": "surface/highlight/highlight",
+            "value": "#907323",
+            "var": "highlight/50",
+            "rootAlias": "highlight/50"
+          },
+          {
+            "name": "surface/highlight/highlightContainer",
+            "value": "#fae09f",
+            "var": "highlight/90",
+            "rootAlias": "highlight/90"
+          },
+          {
+            "name": "surface/highlight/onHighlight",
+            "value": "#ffffff",
+            "var": "highlight/100",
+            "rootAlias": "highlight/100"
+          },
+          {
+            "name": "surface/highlight/onHighlightContainer",
+            "value": "#231902",
+            "var": "highlight/10",
+            "rootAlias": "highlight/10"
+          },
+          {
+            "name": "surface/information/information",
+            "value": "#526ce9",
+            "var": "blue/50",
+            "rootAlias": "blue/50"
+          },
+          {
+            "name": "surface/information/informationContainer",
+            "value": "#dee1fd",
+            "var": "blue/90",
+            "rootAlias": "blue/90"
+          },
+          {
+            "name": "surface/information/onInformation",
+            "value": "#ffffff",
+            "var": "blue/100",
+            "rootAlias": "blue/100"
+          },
+          {
+            "name": "surface/information/onInformationContainer",
+            "value": "#021253",
+            "var": "blue/10",
+            "rootAlias": "blue/10"
+          },
+          {
+            "name": "surface/primary/onPrimary",
+            "value": "#ffffff",
+            "var": "red/100",
+            "rootAlias": "red/100"
+          },
+          {
+            "name": "surface/primary/onPrimaryContainer",
+            "value": "#3b0407",
+            "var": "red/10",
+            "rootAlias": "red/10"
+          },
+          {
+            "name": "surface/primary/primary",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/primary/primaryContainer",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/primary/fixed/onPrimary",
+            "value": "#ffffff",
+            "var": "red/100",
+            "rootAlias": "red/100"
+          },
+          {
+            "name": "surface/primary/fixed/onPrimaryContainer",
+            "value": "#3b0407",
+            "var": "red/10",
+            "rootAlias": "red/10"
+          },
+          {
+            "name": "surface/primary/fixed/primary",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/primary/fixed/primaryContainer",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/secondary/onSecondary",
+            "value": "#ffffff",
+            "var": "purple/100",
+            "rootAlias": "purple/100"
+          },
+          {
+            "name": "surface/secondary/onSecondaryContainer",
+            "value": "#200356",
+            "var": "purple/10",
+            "rootAlias": "purple/10"
+          },
+          {
+            "name": "surface/secondary/secondary",
+            "value": "#8456f2",
+            "var": "purple/50",
+            "rootAlias": "purple/50"
+          },
+          {
+            "name": "surface/secondary/secondaryContainer",
+            "value": "#e8defd",
+            "var": "purple/90",
+            "rootAlias": "purple/90"
+          },
+          {
+            "name": "surface/success/onSuccess",
+            "value": "#ffffff",
+            "var": "green/100",
+            "rootAlias": "green/100"
+          },
+          {
+            "name": "surface/success/onSuccessContainer",
+            "value": "#07200f",
+            "var": "green/10",
+            "rootAlias": "green/10"
+          },
+          {
+            "name": "surface/success/success",
+            "value": "#2e7435",
+            "var": "green/40",
+            "rootAlias": "green/40"
+          },
+          {
+            "name": "surface/success/successContainer",
+            "value": "#b7f1c4",
+            "var": "green/90",
+            "rootAlias": "green/90"
+          },
+          {
+            "name": "surface/tertiary/onTertiary",
+            "value": "#ffffff",
+            "var": "sky/100",
+            "rootAlias": "sky/100"
+          },
+          {
+            "name": "surface/tertiary/onTertiaryContainer",
+            "value": "#051b35",
+            "var": "sky/10",
+            "rootAlias": "sky/10"
+          },
+          {
+            "name": "surface/tertiary/tertiary",
+            "value": "#4579bd",
+            "var": "sky/50",
+            "rootAlias": "sky/50"
+          },
+          {
+            "name": "surface/tertiary/tertiaryContainer",
+            "value": "#d5e4fd",
+            "var": "sky/90",
+            "rootAlias": "sky/90"
+          },
+          {
+            "name": "surface/warning/onSuccess",
+            "value": "#ffffff",
+            "var": "orange/100",
+            "rootAlias": "orange/100"
+          },
+          {
+            "name": "surface/warning/onSuccessContainer",
+            "value": "#2c1402",
+            "var": "orange/10",
+            "rootAlias": "orange/10"
+          },
+          {
+            "name": "surface/warning/success",
+            "value": "#ac6422",
+            "var": "orange/50",
+            "rootAlias": "orange/50"
+          },
+          {
+            "name": "surface/warning/successContainer",
+            "value": "#faddc7",
+            "var": "orange/90",
+            "rootAlias": "orange/90"
+          }
+        ],
+        "number": [
+          {
+            "name": "opacity/invisible",
+            "value": "0rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/ghosty",
+            "value": "0.5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/hover",
+            "value": "0.75rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/highlight",
+            "value": "1.25rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/disabled",
+            "value": "2.5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/tertiery",
+            "value": "3.75rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/secondary",
+            "value": "5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/visible",
+            "value": "6.25rem",
+            "var": "",
+            "rootAlias": ""
+          }
+        ],
+        "string": [
+          {
+            "name": "test",
+            "value": "light",
+            "var": "",
+            "rootAlias": ""
+          }
+        ]
+      },
+      {
+        "mode": {
+          "name": "cftDark",
+          "id": "14064:8"
+        },
+        "color": [
+          {
+            "name": "onSurface",
+            "value": "#e5e5e5",
+            "var": "gray/90",
+            "rootAlias": "gray/90"
+          },
+          {
+            "name": "onSurfaceVariant",
+            "value": "#cccccc",
+            "var": "gray/80",
+            "rootAlias": "gray/80"
+          },
+          {
+            "name": "background/background",
+            "value": "#0c0b0f",
+            "var": "gray-variant/6",
+            "rootAlias": "gray-variant/6"
+          },
+          {
+            "name": "background/inverseOnSurface",
+            "value": "#333333",
+            "var": "gray/20",
+            "rootAlias": "gray/20"
+          },
+          {
+            "name": "background/inverseSurface",
+            "value": "#e5e5e5",
+            "var": "gray/90",
+            "rootAlias": "gray/90"
+          },
+          {
+            "name": "background/onBackground",
+            "value": "#141414",
+            "var": "onSurface",
+            "rootAlias": "gray/8"
+          },
+          {
+            "name": "background/surface",
+            "value": "#0f0f0f",
+            "var": "gray/6",
+            "rootAlias": "gray/6"
+          },
+          {
+            "name": "background/surfaceBright",
+            "value": "#141414",
+            "var": "gray/8",
+            "rootAlias": "gray/8"
+          },
+          {
+            "name": "background/surfaceDim",
+            "value": "#000000",
+            "var": "gray/0",
+            "rootAlias": "gray/0"
+          },
+          {
+            "name": "container/container",
+            "value": "#141414",
+            "var": "gray/8",
+            "rootAlias": "gray/8"
+          },
+          {
+            "name": "container/containerHight",
+            "value": "#1f1f1f",
+            "var": "gray/10",
+            "rootAlias": "gray/10"
+          },
+          {
+            "name": "container/containerHightest",
+            "value": "#292929",
+            "var": "gray/15",
+            "rootAlias": "gray/15"
+          },
+          {
+            "name": "container/containerLow",
+            "value": "#0f0f0f",
+            "var": "gray/6",
+            "rootAlias": "gray/6"
+          },
+          {
+            "name": "container/containerLowest",
+            "value": "#0a0a0a",
+            "var": "gray/4",
+            "rootAlias": "gray/4"
+          },
+          {
+            "name": "effects/backdrop",
+            "value": "#1a1a1a80",
+            "var": "base/dark/50",
+            "rootAlias": "base/dark/50"
+          },
+          {
+            "name": "effects/shadow",
+            "value": "#00000099",
+            "var": "base/dark/60",
+            "rootAlias": "base/dark/60"
+          },
+          {
+            "name": "fixed/black",
+            "value": "#000000",
+            "var": "black",
+            "rootAlias": "black"
+          },
+          {
+            "name": "fixed/brand",
+            "value": "#d72435",
+            "var": "brand",
+            "rootAlias": "brand"
+          },
+          {
+            "name": "fixed/white",
+            "value": "#ffffff",
+            "var": "white",
+            "rootAlias": "white"
+          },
+          {
+            "name": "gradients/1",
+            "value": "#150936",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "gradients/2",
+            "value": "#512eb3",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "gradients/3",
+            "value": "#6221a3",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "surface/outline",
+            "value": "#999999",
+            "var": "gray/60",
+            "rootAlias": "gray/60"
+          },
+          {
+            "name": "surface/outlineVariantCard",
+            "value": "#2f2f41",
+            "var": "gray-variant/30",
+            "rootAlias": "gray-variant/30"
+          },
+          {
+            "name": "surface/error/error",
+            "value": "#f4b6b2",
+            "var": "red/80",
+            "rootAlias": "red/80"
+          },
+          {
+            "name": "surface/error/errorContainer",
+            "value": "#87181f",
+            "var": "red/30",
+            "rootAlias": "red/30"
+          },
+          {
+            "name": "surface/error/onError",
+            "value": "#5f0d12",
+            "var": "red/20",
+            "rootAlias": "red/20"
+          },
+          {
+            "name": "surface/error/onErrorContainer",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/highlight/highlight",
+            "value": "#e8c15c",
+            "var": "highlight/80",
+            "rootAlias": "highlight/80"
+          },
+          {
+            "name": "surface/highlight/highlightContainer",
+            "value": "#564411",
+            "var": "highlight/30",
+            "rootAlias": "highlight/30"
+          },
+          {
+            "name": "surface/highlight/onHighlight",
+            "value": "#3b2e08",
+            "var": "highlight/20",
+            "rootAlias": "highlight/20"
+          },
+          {
+            "name": "surface/highlight/onHighlightContainer",
+            "value": "#fae09f",
+            "var": "highlight/90",
+            "rootAlias": "highlight/90"
+          },
+          {
+            "name": "surface/information/information",
+            "value": "#bbc3fa",
+            "var": "blue/80",
+            "rootAlias": "blue/80"
+          },
+          {
+            "name": "surface/information/informationContainer",
+            "value": "#1336b8",
+            "var": "blue/30",
+            "rootAlias": "blue/30"
+          },
+          {
+            "name": "surface/information/onInformation",
+            "value": "#082383",
+            "var": "blue/20",
+            "rootAlias": "blue/20"
+          },
+          {
+            "name": "surface/information/onInformationContainer",
+            "value": "#dee1fd",
+            "var": "blue/90",
+            "rootAlias": "blue/90"
+          },
+          {
+            "name": "surface/primary/onPrimary",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/primary/onPrimaryContainer",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/primary/primary",
+            "value": "#f4b6b2",
+            "var": "red/80",
+            "rootAlias": "red/80"
+          },
+          {
+            "name": "surface/primary/primaryContainer",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/primary/fixed/onPrimary",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/primary/fixed/onPrimaryContainer",
+            "value": "#87181f",
+            "var": "red/30",
+            "rootAlias": "red/30"
+          },
+          {
+            "name": "surface/primary/fixed/primary",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/primary/fixed/primaryContainer",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/secondary/onSecondary",
+            "value": "#8456f2",
+            "var": "purple/50",
+            "rootAlias": "purple/50"
+          },
+          {
+            "name": "surface/secondary/onSecondaryContainer",
+            "value": "#e8defd",
+            "var": "purple/90",
+            "rootAlias": "purple/90"
+          },
+          {
+            "name": "surface/secondary/secondary",
+            "value": "#cfbdfa",
+            "var": "purple/80",
+            "rootAlias": "purple/80"
+          },
+          {
+            "name": "surface/secondary/secondaryContainer",
+            "value": "#8456f2",
+            "var": "purple/50",
+            "rootAlias": "purple/50"
+          },
+          {
+            "name": "surface/success/onSuccess",
+            "value": "#133720",
+            "var": "green/20",
+            "rootAlias": "green/20"
+          },
+          {
+            "name": "surface/success/onSuccessContainer",
+            "value": "#b7f1c4",
+            "var": "green/90",
+            "rootAlias": "green/90"
+          },
+          {
+            "name": "surface/success/success",
+            "value": "#7adc99",
+            "var": "green/80",
+            "rootAlias": "green/80"
+          },
+          {
+            "name": "surface/success/successContainer",
+            "value": "#1f5031",
+            "var": "green/30",
+            "rootAlias": "green/30"
+          },
+          {
+            "name": "surface/tertiary/onTertiary",
+            "value": "#0f3157",
+            "var": "sky/20",
+            "rootAlias": "sky/20"
+          },
+          {
+            "name": "surface/tertiary/onTertiaryContainer",
+            "value": "#d5e4fd",
+            "var": "sky/90",
+            "rootAlias": "sky/90"
+          },
+          {
+            "name": "surface/tertiary/tertiary",
+            "value": "#a9c8fa",
+            "var": "sky/80",
+            "rootAlias": "sky/80"
+          },
+          {
+            "name": "surface/tertiary/tertiaryContainer",
+            "value": "#1a477c",
+            "var": "sky/30",
+            "rootAlias": "sky/30"
+          },
+          {
+            "name": "surface/warning/onSuccess",
+            "value": "#492607",
+            "var": "orange/20",
+            "rootAlias": "orange/20"
+          },
+          {
+            "name": "surface/warning/onSuccessContainer",
+            "value": "#faddc7",
+            "var": "orange/90",
+            "rootAlias": "orange/90"
+          },
+          {
+            "name": "surface/warning/success",
+            "value": "#f5ba89",
+            "var": "orange/80",
+            "rootAlias": "orange/80"
+          },
+          {
+            "name": "surface/warning/successContainer",
+            "value": "#693a10",
+            "var": "orange/30",
+            "rootAlias": "orange/30"
+          }
+        ],
+        "number": [
+          {
+            "name": "opacity/invisible",
+            "value": "0rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/ghosty",
+            "value": "0.75rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/hover",
+            "value": "1rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/highlight",
+            "value": "1.5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/disabled",
+            "value": "2.5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/tertiery",
+            "value": "3.75rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/secondary",
+            "value": "5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/visible",
+            "value": "6.25rem",
+            "var": "",
+            "rootAlias": ""
+          }
+        ],
+        "string": [
+          {
+            "name": "",
+            "value": "dark",
+            "var": "",
+            "rootAlias": ""
+          }
+        ]
+      },
+      {
+        "mode": {
+          "name": "cftTest",
+          "id": "18261:0"
+        },
+        "color": [
+          {
+            "name": "onSurface",
+            "value": "#262331",
+            "var": "gray-variant/20",
+            "rootAlias": "gray-variant/20"
+          },
+          {
+            "name": "onSurfaceVariant",
+            "value": "#505065",
+            "var": "gray-variant/40",
+            "rootAlias": "gray-variant/40"
+          },
+          {
+            "name": "background/background",
+            "value": "#fbfcff",
+            "var": "gray-variant/98",
+            "rootAlias": "gray-variant/98"
+          },
+          {
+            "name": "background/inverseOnSurface",
+            "value": "#f0f1f3",
+            "var": "gray-variant/95",
+            "rootAlias": "gray-variant/95"
+          },
+          {
+            "name": "background/inverseSurface",
+            "value": "#262331",
+            "var": "gray-variant/20",
+            "rootAlias": "gray-variant/20"
+          },
+          {
+            "name": "background/onBackground",
+            "value": "#141414",
+            "var": "onSurface",
+            "rootAlias": "gray/8"
+          },
+          {
+            "name": "background/surface",
+            "value": "#f0f1f3",
+            "var": "gray-variant/95",
+            "rootAlias": "gray-variant/95"
+          },
+          {
+            "name": "background/surfaceBright",
+            "value": "#f8fafc",
+            "var": "gray-variant/97",
+            "rootAlias": "gray-variant/97"
+          },
+          {
+            "name": "background/surfaceDim",
+            "value": "#e1e2e4",
+            "var": "gray-variant/90",
+            "rootAlias": "gray-variant/90"
+          },
+          {
+            "name": "container/container",
+            "value": "#f8fafc",
+            "var": "gray-variant/97",
+            "rootAlias": "gray-variant/97"
+          },
+          {
+            "name": "container/containerHight",
+            "value": "#f0f1f3",
+            "var": "gray-variant/95",
+            "rootAlias": "gray-variant/95"
+          },
+          {
+            "name": "container/containerHightest",
+            "value": "#e1e2e4",
+            "var": "gray-variant/90",
+            "rootAlias": "gray-variant/90"
+          },
+          {
+            "name": "container/containerLow",
+            "value": "#fbfcff",
+            "var": "gray-variant/98",
+            "rootAlias": "gray-variant/98"
+          },
+          {
+            "name": "container/containerLowest",
+            "value": "#ffffff",
+            "var": "gray-variant/100",
+            "rootAlias": "gray-variant/100"
+          },
+          {
+            "name": "effects/backdrop",
+            "value": "#1a1a1a80",
+            "var": "base/dark/50",
+            "rootAlias": "base/dark/50"
+          },
+          {
+            "name": "effects/shadow",
+            "value": "#1a1a1a33",
+            "var": "base/dark/20",
+            "rootAlias": "base/dark/20"
+          },
+          {
+            "name": "fixed/black",
+            "value": "#000000",
+            "var": "black",
+            "rootAlias": "black"
+          },
+          {
+            "name": "fixed/brand",
+            "value": "#d72435",
+            "var": "brand",
+            "rootAlias": "brand"
+          },
+          {
+            "name": "fixed/white",
+            "value": "#ffffff",
+            "var": "white",
+            "rootAlias": "white"
+          },
+          {
+            "name": "gradients/1",
+            "value": "#150936",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "gradients/2",
+            "value": "#512eb3",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "gradients/3",
+            "value": "#6221a3",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "surface/outline",
+            "value": "#8987a2",
+            "var": "gray-variant/50",
+            "rootAlias": "gray-variant/50"
+          },
+          {
+            "name": "surface/outlineVariantCard",
+            "value": "#dbdbe4",
+            "var": "gray-variant/70",
+            "rootAlias": "gray-variant/70"
+          },
+          {
+            "name": "surface/error/error",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/error/errorContainer",
+            "value": "#fceeec",
+            "var": "red/95",
+            "rootAlias": "red/95"
+          },
+          {
+            "name": "surface/error/onError",
+            "value": "#ffffff",
+            "var": "red/100",
+            "rootAlias": "red/100"
+          },
+          {
+            "name": "surface/error/onErrorContainer",
+            "value": "#3b0407",
+            "var": "red/10",
+            "rootAlias": "red/10"
+          },
+          {
+            "name": "surface/highlight/highlight",
+            "value": "#e8c15c",
+            "var": "highlight/80",
+            "rootAlias": "highlight/80"
+          },
+          {
+            "name": "surface/highlight/highlightContainer",
+            "value": "#564411",
+            "var": "highlight/30",
+            "rootAlias": "highlight/30"
+          },
+          {
+            "name": "surface/highlight/onHighlight",
+            "value": "#3b2e08",
+            "var": "highlight/20",
+            "rootAlias": "highlight/20"
+          },
+          {
+            "name": "surface/highlight/onHighlightContainer",
+            "value": "#fae09f",
+            "var": "highlight/90",
+            "rootAlias": "highlight/90"
+          },
+          {
+            "name": "surface/information/information",
+            "value": "#bbc3fa",
+            "var": "blue/80",
+            "rootAlias": "blue/80"
+          },
+          {
+            "name": "surface/information/informationContainer",
+            "value": "#1336b8",
+            "var": "blue/30",
+            "rootAlias": "blue/30"
+          },
+          {
+            "name": "surface/information/onInformation",
+            "value": "#082383",
+            "var": "blue/20",
+            "rootAlias": "blue/20"
+          },
+          {
+            "name": "surface/information/onInformationContainer",
+            "value": "#dee1fd",
+            "var": "blue/90",
+            "rootAlias": "blue/90"
+          },
+          {
+            "name": "surface/primary/onPrimary",
+            "value": "#fceeec",
+            "var": "red/95",
+            "rootAlias": "red/95"
+          },
+          {
+            "name": "surface/primary/onPrimaryContainer",
+            "value": "#3b0407",
+            "var": "red/10",
+            "rootAlias": "red/10"
+          },
+          {
+            "name": "surface/primary/primary",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/primary/primaryContainer",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/primary/fixed/onPrimary",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/primary/fixed/onPrimaryContainer",
+            "value": "#87181f",
+            "var": "red/30",
+            "rootAlias": "red/30"
+          },
+          {
+            "name": "surface/primary/fixed/primary",
+            "value": "#d72435",
+            "var": "red/50",
+            "rootAlias": "red/50"
+          },
+          {
+            "name": "surface/primary/fixed/primaryContainer",
+            "value": "#f9dbd9",
+            "var": "red/90",
+            "rootAlias": "red/90"
+          },
+          {
+            "name": "surface/secondary/onSecondary",
+            "value": "#8456f2",
+            "var": "purple/50",
+            "rootAlias": "purple/50"
+          },
+          {
+            "name": "surface/secondary/onSecondaryContainer",
+            "value": "#e8defd",
+            "var": "purple/90",
+            "rootAlias": "purple/90"
+          },
+          {
+            "name": "surface/secondary/secondary",
+            "value": "#cfbdfa",
+            "var": "purple/80",
+            "rootAlias": "purple/80"
+          },
+          {
+            "name": "surface/secondary/secondaryContainer",
+            "value": "#8456f2",
+            "var": "purple/50",
+            "rootAlias": "purple/50"
+          },
+          {
+            "name": "surface/success/onSuccess",
+            "value": "#ffffff",
+            "var": "green/100",
+            "rootAlias": "green/100"
+          },
+          {
+            "name": "surface/success/onSuccessContainer",
+            "value": "#07200f",
+            "var": "green/10",
+            "rootAlias": "green/10"
+          },
+          {
+            "name": "surface/success/success",
+            "value": "#2e7435",
+            "var": "green/40",
+            "rootAlias": "green/40"
+          },
+          {
+            "name": "surface/success/successContainer",
+            "value": "#b7f1c4",
+            "var": "green/90",
+            "rootAlias": "green/90"
+          },
+          {
+            "name": "surface/tertiary/onTertiary",
+            "value": "#0f3157",
+            "var": "sky/20",
+            "rootAlias": "sky/20"
+          },
+          {
+            "name": "surface/tertiary/onTertiaryContainer",
+            "value": "#d5e4fd",
+            "var": "sky/90",
+            "rootAlias": "sky/90"
+          },
+          {
+            "name": "surface/tertiary/tertiary",
+            "value": "#a9c8fa",
+            "var": "sky/80",
+            "rootAlias": "sky/80"
+          },
+          {
+            "name": "surface/tertiary/tertiaryContainer",
+            "value": "#1a477c",
+            "var": "sky/30",
+            "rootAlias": "sky/30"
+          },
+          {
+            "name": "surface/warning/onSuccess",
+            "value": "#492607",
+            "var": "orange/20",
+            "rootAlias": "orange/20"
+          },
+          {
+            "name": "surface/warning/onSuccessContainer",
+            "value": "#faddc7",
+            "var": "orange/90",
+            "rootAlias": "orange/90"
+          },
+          {
+            "name": "surface/warning/success",
+            "value": "#f5ba89",
+            "var": "orange/80",
+            "rootAlias": "orange/80"
+          },
+          {
+            "name": "surface/warning/successContainer",
+            "value": "#693a10",
+            "var": "orange/30",
+            "rootAlias": "orange/30"
+          }
+        ],
+        "number": [
+          {
+            "name": "opacity/invisible",
+            "value": "0rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/ghosty",
+            "value": "0.75rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/hover",
+            "value": "1rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/highlight",
+            "value": "1.5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/disabled",
+            "value": "2.5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/tertiery",
+            "value": "3.75rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/secondary",
+            "value": "5rem",
+            "var": "",
+            "rootAlias": ""
+          },
+          {
+            "name": "opacity/visible",
+            "value": "6.25rem",
+            "var": "",
+            "rootAlias": ""
+          }
+        ],
+        "string": [
+          {
+            "name": "",
+            "value": "dark",
+            "var": "",
+            "rootAlias": ""
+          }
+        ]
+      }
+    ]
+  }
+]

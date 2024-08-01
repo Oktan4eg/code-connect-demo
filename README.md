@@ -1,23 +1,30 @@
-# Code Connect Demo
+# React + TypeScript + Vite
 
-Barebones React demo of Figma's [Code Connect](https://github.com/figma/code-connect).
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Codebase setup
+Currently, two official plugins are available:
 
-- `npm i` to install dependencies
-- `npm run app:dev` will run server at [localhost:8000](http://localhost:8000) which renders contents of [App.tsx](src/App.tsx).
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Figma file and Code Connect prep
+## Expanding the ESLint configuration
 
-- Duplicate [this file](https://www.figma.com/community/file/1367910052286562243) and get the file key from the duplicated file url.
-- In this repository, find all `YSPhwsg4AHHmE68zEivIcH` and replace with the new file's file key.
-- `npx figma connect publish --token <your-token>` to publish the existing docs
+If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-### Optional: env tokens
+- Configure the top-level `parserOptions` property like this:
 
-- Create a `.env` file in the root of the project (file is git ignored)
-- Put the contents `FIGMA_ACCESS_TOKEN=fig_yourtoken` in the file and save
-- You'll no longer need to append `--token <your-token>` to the connect commands.
-- The one caveat is that currently you'll always need to run figma connect from the root.
-  - Running figma connect from a sub directory (like `./src/ui`) will not find the token.
-  - This is a bug and should be fixed soon.
+```js
+export default {
+  // other rules...
+  parserOptions: {
+    ecmaVersion: 'latest',
+    sourceType: 'module',
+    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
+    tsconfigRootDir: __dirname,
+  },
+}
+```
+
+- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
+- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
+- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
