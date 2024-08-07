@@ -1,0 +1,19 @@
+.wrap {
+  margin: 24px auto;
+  display: flex;
+  width: 296px;
+  height: 96px;
+  text-align: center;
+  /* background: #fff; */
+  border-radius: 24px;
+}
+
+.card {
+  font-size: 10px;
+  line-height: 16px;
+  text-align: center;
+}
+
+.wrap div {
+  margin: auto;
+}
